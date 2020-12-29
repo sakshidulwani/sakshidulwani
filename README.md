@@ -29,10 +29,15 @@
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
+<br/>
+<br/>
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sakshidulwani/count.svg" />
+</p>
 
 [website]: https://sakshidulwani.github.io/portfolio/
 [instagram]: https://www.instagram.com/sakshidulwani/
 [linkedin]: https://www.linkedin.com/in/sakshi-dulwani-4123261aa/
-
