@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on something secret.
-- 🌱 I’m currently learning everithing.
+- 🌱 I’m currently learning everything.
 - 🤔 I’m looking for help with React Native.
 - 💬 Ask me about my bug issues.
 
